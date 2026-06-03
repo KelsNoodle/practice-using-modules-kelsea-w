@@ -1,7 +1,9 @@
 //node_modules are where any installed NPM package is downloaded to. 
 // This should be excluded with gitignore because the dependencies 
-// are already listed in the package.json, allowing anyone to install the dependencies themselves,
-// greatly reducing your source code's size.
+// are already listed in the package.json, allowing anyone to install 
+// the dependencies themselves, greatly reducing your source code's size. 
+// The npm install command allows other developers to install what's
+// listed in the package.json, which is why we do not need to include node_modules in our repository.
 
 
 
