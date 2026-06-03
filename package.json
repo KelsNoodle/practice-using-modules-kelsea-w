@@ -1,0 +1,25 @@
+{
+  "name": "practice-using-modules-kelsea-w",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KelsNoodle/practice-using-modules-kelsea-w.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KelsNoodle/practice-using-modules-kelsea-w/issues"
+  },
+  "homepage": "https://github.com/KelsNoodle/practice-using-modules-kelsea-w#readme",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "yargs": "^18.0.0"
+  }
+}
